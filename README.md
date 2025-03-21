@@ -2,14 +2,12 @@
 
 **SwiftGrammerMaster_CLI**는 Swift의 심화 개념을 학습하고 CLI 환경에서 문제를 해결하는 프로젝트입니다.  
 
-<br>
 
 ## 📖 프로젝트 개요
 - **주제:** Swift 심화 문법 학습 및 CLI 기반 실습 프로젝트
 - **학습 개념:** 객체지향 프로그래밍(OOP), 프로토콜, 에러 처리, 제네릭, 클로저
 - **실행 환경:** MacOS 
 
-<br>
 
 ## 🚀 실행 
 ### 1. 프로젝트 클론
@@ -23,7 +21,6 @@ $ cd SpartaCamp-iOS/[Week2] SwiftGrammerMaster_CLI
 $ swift main.swift
 ```
 
-<br>
 
 ## 📂 폴더 구조
 ```
